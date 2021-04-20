@@ -1,0 +1,18 @@
+.home-text {
+  display: flex;
+  align-items: center;
+  margin-bottom: -40px;
+}
+
+.home-text p {
+  font-size: 64px;
+  font-family: 'Roboto Mono', monospace;
+  font-weight: bold;
+}
+.home-text span {
+  font-size: 64px;
+  font-family: 'Rubik', sans-serif;
+  font-weight: 300;
+  font-style: italic;
+  margin-left: 25px;
+}
